@@ -108,6 +108,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-5edcdf) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [flux-2-max-prompts-ja](https://github.com/nbkj6/flux-2-max-prompts-ja)
+- **Same model, other languages** — 9 more language builds: 中文 [flux-2-max-api-cn](https://github.com/apimartg583b51/flux-2-max-api-cn) · Deutsch [flux-2-max-api-de](https://github.com/nk7pvzvbm3b8/flux-2-max-api-de) · Español [flux-2-max-api-es](https://github.com/xmob24gstm0hwf/flux-2-max-api-es) · Français [flux-2-max-api-fr](https://github.com/apimartg583b51/flux-2-max-api-fr) · Relay/gateway [flux-2-max-api-gateway](https://github.com/apimartpzjt/flux-2-max-api-gateway) · Bahasa [flux-2-max-api-id](https://github.com/rtkz3/flux-2-max-api-id) · 한국어 [flux-2-max-api-ko](https://github.com/ibmf1yp-x2df/flux-2-max-api-ko) · Português [flux-2-max-api-pt](https://github.com/j3jxmbmj/flux-2-max-api-pt) · Русский [flux-2-max-api-ru](https://github.com/d79bcrw6n9kd/flux-2-max-api-ru)
+- **More models in this language** — [midjourney-api-ja](https://github.com/apimartt1q/midjourney-api-ja) · [gemini-2-5-flash-image-preview-api-ja](https://github.com/ic7skkh/gemini-2-5-flash-image-preview-api-ja) · [nano-banana-api-ja](https://github.com/e4ylndl3g-v/nano-banana-api-ja) · [gemini-3-1-flash-image-preview-api-ja](https://github.com/gv4ju/gemini-3-1-flash-image-preview-api-ja) · [nano-banana-2-api-ja](https://github.com/lpbxkrzbfel/nano-banana-2-api-ja) · [gemini-3-pro-image-preview-api-ja](https://github.com/zzsxs8r/gemini-3-pro-image-preview-api-ja)
+- **Topic hubs** — every build of this model, all languages: [flux-2-max](https://github.com/topics/flux-2-max) · [flux-2-max-api](https://github.com/topics/flux-2-max-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
